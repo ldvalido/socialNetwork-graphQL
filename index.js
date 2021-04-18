@@ -26,6 +26,10 @@ const books = [
       title: 'City of Glass',
       author: 'Paul Auster',
     },
+    {
+      title: 'Untamed',
+      author: 'Glennon Doyle',
+    },
   ];
 
 const resolvers = {
